@@ -1,10 +1,29 @@
 {
-	"info": {
-		"_postman_id": "dd0aef58-0347-49ae-8475-53f88d6e6d8f",
-		"name": "fibonacci",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "43707035",
-		"_collection_link": "https://juan-5088484.postman.co/workspace/Juan's-Workspace~8cb90924-f65e-4ecf-8d34-46d81b083520/collection/43707035-dd0aef58-0347-49ae-8475-53f88d6e6d8f?action=share&source=collection_link&creator=43707035"
-	},
-	"item": []
+	"item": [
+		{
+			"name": "fibonacci",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body" : {
+					"mode": "raw",
+					"raw" : {"nth": 10000}
+				},
+				"url": {
+					"raw": "https://FunctionProjectFfibonacci.azurewebsites.net/api/fibonacci",
+					"protocol": "https",
+					"host": [
+						"FunctionProjectFfibonacci",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"fibonacci"
+					]
+				}
+			},
+			"response": []
+		}
+	]
 }

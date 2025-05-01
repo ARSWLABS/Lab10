@@ -9,10 +9,5 @@
     "big-integer": "^1.6.48",
     "newman": "^4.6.1",
     "newman-reporter-html": "^1.0.5"
-  },
-  "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }

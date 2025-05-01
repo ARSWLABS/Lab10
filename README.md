@@ -62,7 +62,15 @@ Solción:
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
+Solución:
+
+![](images/part2/Solucion9.png)
+
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
+
+Solución:
+
+![](images/part2/Solucion10.png)
 
 **Preguntas**
 
@@ -130,3 +138,19 @@ Aplicar memoización a funciones que ya son muy rápidas o que no se llaman repe
 El sistema de facturación de Azure Function App depende del plan de hospedaje: en el plan de consumo se cobra por número de ejecuciones, duración y memoria usada; en el plan premium y dedicado, se factura por instancias reservadas y uso constante de recursos. Además, se cobran servicios asociados como almacenamiento y monitoreo si se utilizan.
 
 * Informe
+
+1000
+
+![](images/part2/Solucion11.png)
+
+10000
+
+![](images/part2/Solucion12.png)
+
+50000
+
+![](images/part2/Solucion13.png)
+
+Metricas:
+
+![](images/part2/metricas.png)
